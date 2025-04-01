@@ -15,7 +15,7 @@
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
   <img src="fedavg_noniid_dots.png" alt="FL Algorithms Comparison 1" style="width: 24%;">
   <img src="fednova_noniid_dots.png" alt="FL Algorithms Comparison 2" style="width: 24%;">
-    <img src="fedprox_noniid_dots.png" alt="FL Algorithms Comparison 3" style="width: 24%;">
+  <img src="fedprox_noniid_dots.png" alt="FL Algorithms Comparison 3" style="width: 24%;">
   <img src="scaffold_noniid_dots.png" alt="FL Algorithms Comparison 4" style="width: 24%;">
 </div>
 
