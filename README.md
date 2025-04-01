@@ -24,3 +24,9 @@
 * val_accuracy_comparison.png
 
 **Captions:** A comparison of Scaffold, FedNova, and FedAvg in a three-source setting reveals that federated learning (FL) models with lower training loss (indicating successful convergence) exhibit superior validation performance and a more distinct correlation between validation performance and combined Wasserstein Distance (combineWad) (refer to XX_noniid_dots.png).
+
+## To Reviewer Gfhp
+
+### Potentials of FL trail run
+**Figures:** 
+**Captions:**
