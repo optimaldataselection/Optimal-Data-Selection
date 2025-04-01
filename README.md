@@ -20,8 +20,8 @@
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="train_loss_comparison.png" alt="Training Loss Comparison" style="width: 48%;">
-  <img src="val_accuracy_comparison.png" alt="Validation Accuracy Comparison" style="width: 48%;">
+  <img src="train_loss_comparison.png" alt="Training Loss" style="width: 46%;">
+  <img src="val_accuracy_comparison.png" alt="Validation Performance" style="width: 46%;">
 </div>
 
 **Caption:** A comparison of Scaffold, FedNova, and FedAvg in a three-source setting reveals that federated learning (FL) models with lower training loss (indicating successful convergence) exhibit superior validation performance and a more distinct correlation between validation performance and combined Wasserstein Distance (combineWad).
