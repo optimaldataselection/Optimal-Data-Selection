@@ -29,21 +29,21 @@
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="train_loss_comparison.png" alt="Training Loss" style="width: 46%;">
-  <img src="val_accuracy_comparison.png" alt="Validation Performance" style="width: 46%;">
+  <img src="train_loss_comparison_4000.png" alt="Training Loss" style="width: 46%;">
+  <img src="val_accuracy_comparison_4000.png" alt="Validation Performance" style="width: 46%;">
 </div>
 
 
 #### N=6000
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <img src="fedavg_noniid_dots.png" alt="FL Algorithms Comparison 1" style="width: 24%;">
-  <img src="fednova_noniid_dots.png" alt="FL Algorithms Comparison 2" style="width: 24%;">
-  <img src="fedprox_noniid_dots.png" alt="FL Algorithms Comparison 3" style="width: 24%;">
-  <img src="scaffold_noniid_dots.png" alt="FL Algorithms Comparison 4" style="width: 24%;">
+  <img src="fedavg_noniid_dots_6000.png" alt="FL Algorithms Comparison 1" style="width: 24%;">
+  <img src="fednova_noniid_dots_6000.png" alt="FL Algorithms Comparison 2" style="width: 24%;">
+  <img src="fedprox_noniid_dots_6000.png" alt="FL Algorithms Comparison 3" style="width: 24%;">
+  <img src="scaffold_noniid_dots_6000.png" alt="FL Algorithms Comparison 4" style="width: 24%;">
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="train_loss_comparison.png" alt="Training Loss" style="width: 46%;">
-  <img src="val_accuracy_comparison.png" alt="Validation Performance" style="width: 46%;">
+  <img src="train_loss_comparison_6000.png" alt="Training Loss" style="width: 46%;">
+  <img src="val_accuracy_comparison_6000.png" alt="Validation Performance" style="width: 46%;">
 </div>
 
